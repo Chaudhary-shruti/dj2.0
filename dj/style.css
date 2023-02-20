@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    
+}
+.heading{
+    margin:0px;
+    width:100%;
+    font-size: 23px;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+
+#speed{
+    font-size: 23px;
+    margin:15px;
+}
+#volume{
+    font-size: 23px;
+    margin:15px;
+}
+.play{
+    width:150px;
+    font-size: 20px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+}
